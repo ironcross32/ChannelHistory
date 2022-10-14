@@ -1,0 +1,7 @@
+{
+  "package": "ChannelHistory",
+  "version": "1.0.0",
+  "author": "bscross32",
+  "title": "Virtual buffering system for screen reader users.",
+  "outputFile": true
+}

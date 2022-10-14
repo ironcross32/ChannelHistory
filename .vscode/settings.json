@@ -1,0 +1,10 @@
+{
+    "Lua.workspace.library": [
+        "c:\\Users\\bcros\\AppData\\Roaming\\Code\\User\\globalStorage\\delwing.mudlet-scripts-sdk/docs",
+        "${3rd}/lfs/library"
+    ],
+    "Lua.diagnostics.globals": [
+        "lfs"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}
