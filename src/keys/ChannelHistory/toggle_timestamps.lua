@@ -1,0 +1,1 @@
+channel_history.toggle_timestamps()

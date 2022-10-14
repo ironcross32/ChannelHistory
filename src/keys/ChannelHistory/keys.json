@@ -1,0 +1,34 @@
+[
+  {
+    "name": "previous_message",
+    "keys": "alt+up"
+  },
+  {
+    "name": "next_message",
+    "keys": "alt+down"
+  },
+  {
+    "name": "previous_category",
+    "keys": "alt+left"
+  },
+  {
+    "name": "next_category",
+    "keys": "alt+right"
+  },
+  {
+    "name": "toggle_timestamps",
+    "keys": "alt+shift+t"
+  },
+  {
+    "name": "delete_category",
+    "keys": "alt+shift+del"
+  },
+  {
+    "name": "first_message",
+    "keys": "alt+home"
+  },
+  {
+    "name": "last_message",
+    "keys": "alt+end"
+  }
+]
