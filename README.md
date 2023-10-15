@@ -4,7 +4,9 @@
 
 ## Installation instructions
 In Mudlet, type the following command:
-`lua uninstallPackage("ChannelHistory");installPackage("https://github.com/ironcross32/ChannelHistory/releases/latest/download/ChannelHistory.mpackage")`
+```
+lua uninstallPackage("ChannelHistory");installPackage("https://github.com/ironcross32/ChannelHistory/releases/latest/download/ChannelHistory.mpackage")
+```
 ## Usage
 
 for those who are familiar with the channel_history plugin for MUSHclient, this package behaves in much the same way, though with a more limited feature set.
