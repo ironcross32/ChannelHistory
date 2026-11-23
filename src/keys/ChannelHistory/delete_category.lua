@@ -1,1 +1,0 @@
-channel_history.delete_category()

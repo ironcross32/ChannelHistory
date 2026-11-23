@@ -1,34 +1,20 @@
 [
-  {
-    "name": "previous_message",
-    "keys": "alt+up"
-  },
-  {
-    "name": "next_message",
-    "keys": "alt+down"
-  },
-  {
-    "name": "previous_category",
-    "keys": "alt+left"
-  },
-  {
-    "name": "next_category",
-    "keys": "alt+right"
-  },
-  {
-    "name": "toggle_timestamps",
-    "keys": "alt+shift+t"
-  },
-  {
-    "name": "delete_category",
-    "keys": "alt+shift+del"
-  },
-  {
-    "name": "first_message",
-    "keys": "alt+home"
-  },
-  {
-    "name": "last_message",
-    "keys": "alt+end"
-  }
+  {"name": "channel history previous message", "keys": "alt+up"},
+  {"name": "channel history next message", "keys": "alt+down"},
+  {"name": "channel history previous category", "keys": "alt+left"},
+  {"name": "channel history next category", "keys": "alt+right"},
+  {"name": "channel history toggle timestamps", "keys": "alt+shift+t"},
+  {"name": "channel history delete category", "keys": "alt+shift+del"},
+  {"name": "channel history first message", "keys": "alt+home"},
+  {"name": "channel history last message", "keys": "alt+end"},
+  {"name": "channel history recent 1", "keys": "alt+1"},
+  {"name": "channel history recent 2", "keys": "alt+2"},
+  {"name": "channel history recent 3", "keys": "alt+3"},
+  {"name": "channel history recent 4", "keys": "alt+4"},
+  {"name": "channel history recent 5", "keys": "alt+5"},
+  {"name": "channel history recent 6", "keys": "alt+6"},
+  {"name": "channel history recent 7", "keys": "alt+7"},
+  {"name": "channel history recent 8", "keys": "alt+8"},
+  {"name": "channel history recent 9", "keys": "alt+9"},
+  {"name": "channel history recent 10", "keys": "alt+0"}
 ]

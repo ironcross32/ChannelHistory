@@ -1,8 +1,5 @@
 [
-  {
-    "name": "code",
-    "eventHandlerList": [
-      "sysInstall"
-    ]
-  }
+  {"name": "channel_history core"},
+  {"name": "channel_history navigation"},
+  {"name": "channel_history.onUninstall", "eventHandlerList": ["sysUninstall"]}
 ]

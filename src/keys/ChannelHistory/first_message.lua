@@ -1,1 +1,0 @@
-channel_history.previous_message(5000)
